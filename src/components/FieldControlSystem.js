@@ -30,7 +30,7 @@ function Spamars() {
       SecureToken: "f539452d-6b27-4150-b0e2-44ee5ceb5be9",
       To: "bijjagoutham@gmail.com",
       From: "goutham.1904f3@gmail.com",
-      Subject: "Alert FLAME detected🔥🔥",
+      Subject: "EMERGENCY - Fire detected at the field! ",
       Body: `Flame detected at ${new Date()}`,
     }).then((message) => console.log(message));
   };
